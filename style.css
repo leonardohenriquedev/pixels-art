@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  /* background-image: url('https://cdnb.artstation.com/p/assets/images/images/035/834/987/original/jordan-pak-lofi.gif?1616014770'); */
+  background-size: cover;
+  background-attachment: fixed;
+  background-color: rgb(121, 121, 121);
+}
+
+.color {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+}
+
+#firstColor {
+  background-color: black;
+}
+
+#secondColor {
+  background-color: magenta;
+}
+
+#thirdColor {
+  background-color: violet;
+}
+
+#fourthColor {
+  background-color: darkorchid;
+}
+
+.pixel {
+  width: 40px;
+  height: 40px;
+  border: 1px solid black;
+  background-color: white;
+  margin: 1px 2px;
+  display: inline-block;
+}
+
+button {
+  margin: 0.5em;
+}
+
+input {
+  width: 70px;
+}
+
+#title {
+  margin: 15px;
+  color: white;
+}
+
+footer {
+  height: 30px;
+  margin-top: 25px;
+}
+
+audio {
+  height: 90%;
+}
